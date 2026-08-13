@@ -1,0 +1,17 @@
+{
+  "description": "Build professional content and personal brand on LinkedIn",
+  "agents": [
+    {
+      "division": "marketing",
+      "slug": "marketing-linkedin-content-creator"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "writing-beats"
+    },
+    {
+      "slug": "writing-shape"
+    }
+  ]
+}

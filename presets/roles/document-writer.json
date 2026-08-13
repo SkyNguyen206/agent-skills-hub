@@ -1,0 +1,21 @@
+{
+  "description": "Draft technical documentation, APIs, and project reports",
+  "agents": [
+    {
+      "division": "engineering",
+      "slug": "engineering-technical-writer"
+    },
+    {
+      "division": "specialized",
+      "slug": "specialized-document-generator"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "writing-for-agents"
+    },
+    {
+      "slug": "grill-with-docs"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "description": "ETL/ELT pipeline work",
+  "agents": [{"division":"engineering","slug":"data-engineer"}],
+  "skills": [{"slug":"tdd"},{"slug":"code-review"}]
+}

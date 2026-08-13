@@ -1,0 +1,21 @@
+{
+  "description": "Act as an instructor, design learning paths, and mentor",
+  "agents": [
+    {
+      "division": "specialized",
+      "slug": "corporate-training-designer"
+    },
+    {
+      "division": "specialized",
+      "slug": "personal-growth-mentor"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "teach"
+    },
+    {
+      "slug": "scaffold-exercises"
+    }
+  ]
+}

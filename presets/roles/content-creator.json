@@ -1,0 +1,20 @@
+{
+  "description": "Create multi-platform content and copywriting",
+  "agents": [
+    {
+      "division": "marketing",
+      "slug": "marketing-content-creator"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "writing-beats"
+    },
+    {
+      "slug": "writing-fragments"
+    },
+    {
+      "slug": "writing-shape"
+    }
+  ]
+}
