@@ -1,0 +1,23 @@
+{
+  "description": "Xây thương hiệu cá nhân, viết nội dung B2B chuyên nghiệp trên LinkedIn",
+  "agents": [
+    {
+      "division": "marketing",
+      "slug": "linkedin-content-creator"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "social",
+      "repo": "coreyhaines31/marketingskills"
+    },
+    {
+      "slug": "copywriting",
+      "repo": "coreyhaines31/marketingskills"
+    },
+    {
+      "slug": "writing-beats",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

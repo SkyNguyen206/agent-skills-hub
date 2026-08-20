@@ -1,0 +1,27 @@
+{
+  "description": "Thiết kế, test và tối ưu prompt cho tính năng LLM",
+  "agents": [
+    {
+      "division": "engineering",
+      "slug": "prompt-engineer"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "prompt-engineering-patterns",
+      "repo": "wshobson/agents"
+    },
+    {
+      "slug": "prototype",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "research",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "writing-for-agents",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

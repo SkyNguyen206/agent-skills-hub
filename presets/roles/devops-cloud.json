@@ -1,0 +1,31 @@
+{
+  "description": "CI/CD, tự động hoá hạ tầng, quản lý cloud/container (Docker, Terraform, Kubernetes)",
+  "agents": [
+    {
+      "division": "engineering",
+      "slug": "devops-automator"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "devops-engineer",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "terraform-engineer",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "azure-enterprise-infra-planner",
+      "repo": "microsoft/azure-skills"
+    },
+    {
+      "slug": "azure-kubernetes",
+      "repo": "microsoft/azure-skills"
+    },
+    {
+      "slug": "azure-cost",
+      "repo": "microsoft/azure-skills"
+    }
+  ]
+}

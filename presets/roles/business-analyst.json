@@ -1,0 +1,27 @@
+{
+  "description": "Thu thập & phân tích yêu cầu, viết PRD/spec, làm cầu nối giữa business và dev team",
+  "agents": [
+    {
+      "division": "specialized",
+      "slug": "business-strategist"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "to-spec",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "grill-with-docs",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "domain-modeling",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "to-questionnaire",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

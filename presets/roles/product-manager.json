@@ -1,0 +1,27 @@
+{
+  "description": "Quản lý vòng đời sản phẩm: nghiên cứu user, viết PRD, ưu tiên tính năng, giao tiếp roadmap",
+  "agents": [
+    {
+      "division": "product",
+      "slug": "product-manager"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "product-manager-toolkit",
+      "repo": "borghei/Claude-Skills"
+    },
+    {
+      "slug": "agile-product-owner",
+      "repo": "borghei/Claude-Skills"
+    },
+    {
+      "slug": "to-tickets",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "grill-me",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

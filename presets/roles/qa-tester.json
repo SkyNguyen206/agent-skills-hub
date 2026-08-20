@@ -1,0 +1,31 @@
+{
+  "description": "Thiết kế test plan, viết/chạy test tự động, tìm và báo cáo bug",
+  "agents": [
+    {
+      "division": "testing",
+      "slug": "test-automation-engineer"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "webapp-testing",
+      "repo": "anthropics/skills"
+    },
+    {
+      "slug": "test-master",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "debugging-wizard",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "tdd",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "code-review",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

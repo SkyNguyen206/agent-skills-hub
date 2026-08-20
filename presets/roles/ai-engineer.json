@@ -1,18 +1,14 @@
 {
-  "description": "Xây dựng và bảo trì data pipeline, ETL/ELT, kiến trúc lakehouse/warehouse",
+  "description": "Tích hợp ML model và tính năng AI vào sản phẩm",
   "agents": [
     {
       "division": "engineering",
-      "slug": "data-engineer"
+      "slug": "ai-engineer"
     }
   ],
   "skills": [
     {
-      "slug": "analytics-engineer",
-      "repo": "borghei/Claude-Skills"
-    },
-    {
-      "slug": "domain-modeling",
+      "slug": "prototype",
       "repo": "mattpocock/skills"
     },
     {
@@ -24,11 +20,11 @@
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "diagnosing-bugs",
+      "slug": "implement",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "implement",
+      "slug": "diagnosing-bugs",
       "repo": "mattpocock/skills"
     }
   ]

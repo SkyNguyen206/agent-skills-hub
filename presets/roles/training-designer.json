@@ -1,0 +1,31 @@
+{
+  "description": "Thiết kế giáo trình, hệ thống bài học, chương trình đào tạo nội bộ",
+  "agents": [
+    {
+      "division": "specialized",
+      "slug": "corporate-training-designer"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "teach",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "to-questionnaire",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "writing-for-agents",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "scaffold-exercises",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "obsidian-vault",
+      "repo": "custom-skill"
+    }
+  ]
+}

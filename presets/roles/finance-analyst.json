@@ -1,0 +1,31 @@
+{
+  "description": "Mô hình hoá tài chính, dự báo, phân tích tỷ số, DCF valuation và thẩm định đầu tư",
+  "agents": [
+    {
+      "division": "finance",
+      "slug": "financial-analyst"
+    },
+    {
+      "division": "finance",
+      "slug": "investment-researcher"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "financial-analyst",
+      "repo": "borghei/Claude-Skills"
+    },
+    {
+      "slug": "business-intelligence",
+      "repo": "borghei/Claude-Skills"
+    },
+    {
+      "slug": "research",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "grill-me",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

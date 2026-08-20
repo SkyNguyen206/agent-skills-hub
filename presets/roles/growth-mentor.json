@@ -1,0 +1,23 @@
+{
+  "description": "Cố vấn phát triển cá nhân, định hướng mục tiêu",
+  "agents": [
+    {
+      "division": "specialized",
+      "slug": "personal-growth-mentor"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "grill-me",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "grilling",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "wait-what",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

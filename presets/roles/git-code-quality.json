@@ -1,0 +1,35 @@
+{
+  "description": "Quản lý branching strategy, commit convention, và review chất lượng PR",
+  "agents": [
+    {
+      "division": "engineering",
+      "slug": "git-workflow-master"
+    },
+    {
+      "division": "engineering",
+      "slug": "code-reviewer"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "code-reviewer",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "code-review",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "resolving-merge-conflicts",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "git-guardrails-claude-code",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "triage",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

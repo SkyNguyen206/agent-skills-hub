@@ -1,0 +1,19 @@
+# ash per-project state (written by ash add/clean/list/check into <cwd>/.ash/)
+.ash/
+
+# local opencode config for working in this repo (personal, not shared)
+.opencode/
+
+# logs & temp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# editor / IDE
+.idea/
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db

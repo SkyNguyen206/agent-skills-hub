@@ -1,22 +1,18 @@
 {
-  "description": "Xây dựng và bảo trì data pipeline, ETL/ELT, kiến trúc lakehouse/warehouse",
+  "description": "Xây UI React/Vue, tối ưu hiệu năng render và Core Web Vitals",
   "agents": [
     {
       "division": "engineering",
-      "slug": "data-engineer"
+      "slug": "frontend-developer"
     }
   ],
   "skills": [
     {
-      "slug": "analytics-engineer",
-      "repo": "borghei/Claude-Skills"
-    },
-    {
-      "slug": "domain-modeling",
+      "slug": "prototype",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "research",
+      "slug": "codebase-design",
       "repo": "mattpocock/skills"
     },
     {
@@ -24,11 +20,11 @@
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "diagnosing-bugs",
+      "slug": "code-review",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "implement",
+      "slug": "diagnosing-bugs",
       "repo": "mattpocock/skills"
     }
   ]

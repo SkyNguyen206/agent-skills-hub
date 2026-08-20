@@ -1,0 +1,19 @@
+{
+  "description": "Viết prompt cho Midjourney, Stable Diffusion, DALL-E",
+  "agents": [
+    {
+      "division": "design",
+      "slug": "image-prompt-engineer"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "writing-for-agents",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "prototype",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

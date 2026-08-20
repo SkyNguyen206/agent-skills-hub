@@ -1,0 +1,35 @@
+{
+  "description": "Thiết kế REST/GraphQL API, schema database, kiến trúc microservices cho hệ thống production",
+  "agents": [
+    {
+      "division": "engineering",
+      "slug": "backend-architect"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "api-designer",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "database-optimizer",
+      "repo": "jeffallan/claude-skills"
+    },
+    {
+      "slug": "domain-modeling",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "codebase-design",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "tdd",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "code-review",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

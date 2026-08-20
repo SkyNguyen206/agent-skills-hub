@@ -1,0 +1,27 @@
+{
+  "description": "Viết tài liệu kỹ thuật/API docs, tạo file PDF/DOCX chuyên nghiệp từ code hoặc spec",
+  "agents": [
+    {
+      "division": "engineering",
+      "slug": "technical-writer"
+    },
+    {
+      "division": "specialized",
+      "slug": "document-generator"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "writing-for-agents",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "to-spec",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "grill-with-docs",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}

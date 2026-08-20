@@ -1,34 +1,34 @@
 {
-  "description": "Xây dựng và bảo trì data pipeline, ETL/ELT, kiến trúc lakehouse/warehouse",
+  "description": "Thiết kế kiến trúc hệ thống, Domain-Driven Design, phân tích trade-off",
   "agents": [
     {
       "division": "engineering",
-      "slug": "data-engineer"
+      "slug": "software-architect"
     }
   ],
   "skills": [
     {
-      "slug": "analytics-engineer",
-      "repo": "borghei/Claude-Skills"
+      "slug": "architecture-designer",
+      "repo": "jeffallan/claude-skills"
     },
     {
       "slug": "domain-modeling",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "research",
+      "slug": "codebase-design",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "tdd",
+      "slug": "grill-with-docs",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "diagnosing-bugs",
+      "slug": "wayfinder",
       "repo": "mattpocock/skills"
     },
     {
-      "slug": "implement",
+      "slug": "improve-codebase-architecture",
       "repo": "mattpocock/skills"
     }
   ]

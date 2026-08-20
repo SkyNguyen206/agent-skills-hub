@@ -1,0 +1,31 @@
+{
+  "description": "Lên kế hoạch triển khai dự án: setup timeline, phân rã công việc, theo dõi rủi ro, điều phối stakeholder",
+  "agents": [
+    {
+      "division": "project-management",
+      "slug": "senior-project-manager"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "delivery-manager",
+      "repo": "borghei/Claude-Skills"
+    },
+    {
+      "slug": "senior-pm",
+      "repo": "borghei/Claude-Skills"
+    },
+    {
+      "slug": "wayfinder",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "to-tickets",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "slug": "triage",
+      "repo": "mattpocock/skills"
+    }
+  ]
+}
