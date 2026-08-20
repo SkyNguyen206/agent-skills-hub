@@ -2,6 +2,8 @@
 
 Personal hub that installs agent skills + role agents into AI coding tools (opencode, claude-code, copilot, gemini-cli, antigravity, cursor, codex) per project. The main interface is the `ash` CLI.
 
+**Version:** 0.1.0 — `ash version` (`VERSION` file mirrors it for tooling/tags).
+
 ## Installation
 
 ```bash
@@ -63,6 +65,7 @@ agent-skills-hub/
 │   ├── skills/             # git submodule (read-only)
 │   └── agency-agents/      # git submodule (read-only)
 ├── AGENTS.md               # agent-facing guide for working in this repo
+├── VERSION                 # current release version (e.g. 0.1.0)
 └── .gitmodules
 ```
 

@@ -11,6 +11,11 @@ if (( BASH_VERSINFO[0] < 4 )); then
   exit 1
 fi
 
+# Current release version. Single source of truth: also mirrored in ./VERSION
+# (kept in sync manually — VERSION exists so tooling/git tags can read it
+# without running bash).
+ASH_VERSION="0.1.0"
+
 HUB_DIR="${ASH_HUB_DIR:-$HOME/agent-skills-hub}"
 PROJECT_ROOT="$(pwd)"
 PROJECT_STATE="$PROJECT_ROOT/.ash/state.json"
@@ -1054,8 +1059,8 @@ cmd_update() {
 }
 
 print_usage() {
-  ui_title "ash"
-  printf '%susage:%s ash <setup|add|clean|list|check|update>\n\n' "$C_BOLD" "$C_RESET"
+  ui_title "ash v${ASH_VERSION}"
+  printf '%susage:%s ash <setup|add|clean|list|check|update|version>\n\n' "$C_BOLD" "$C_RESET"
   printf '  %ssetup%s   Cài script này vào ~/bin/ash (chmod +x) để dùng lệnh `ash` global.\n' "$C_CYAN" "$C_RESET"
   printf '           Chạy 1 lần: ./scripts/ash.sh setup\n'
   printf '  %sadd%s     Chạy interactive flow để chọn role/tool/scope rồi cài agent+skill.\n' "$C_CYAN" "$C_RESET"
@@ -1077,6 +1082,7 @@ case "${1:-}" in
   setup) cmd_setup ;;
   check) shift; cmd_check "$@" ;;
   update) shift; cmd_update "$@" ;;
+  version|-v|--version) printf 'ash %s\n' "$ASH_VERSION" ;;
   list)
     ui_title "ash · list"
     count=$(jq -r '.items | length' "$PROJECT_STATE" 2>/dev/null || echo 0)
